@@ -1,0 +1,23 @@
+https://dzone.com/articles/top-20-git-commands-with-examples
+
+Working with git pull:
+git pull origin master
+
+Working with git stash:
+
+git stash
+git stash show
+git stash apply
+
+Working with git log:
+git log
+Reverting to my previous commit:
+git log --oneline
+
+Working with git revert:
+git revert commitid
+git revert HEAD
+
+
+
+
